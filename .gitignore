@@ -184,3 +184,6 @@ cython_debug/
 
 Assets_Zara01/
 Assets_Zara02/
+
+qwen2-7b-*/
+octo/
